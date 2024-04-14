@@ -1,0 +1,81 @@
+D:\Hire\Trần Nam\QLCaPhe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Hire\Trần Nam\QLCaPhe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Hire\Trần Nam\QLCaPhe\DAL\bin\Debug\DAL.dll
+D:\Hire\Trần Nam\QLCaPhe\DAL\bin\Debug\DAL.pdb
+D:\Hire\Trần Nam\QLCaPhe\DAL\bin\Debug\DAO.dll
+D:\Hire\Trần Nam\QLCaPhe\DAL\bin\Debug\DAO.pdb
+D:\Hire\Trần Nam\QLCaPhe\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Hire\Trần Nam\QLCaPhe\DAL\obj\Debug\DAL.dll
+D:\Hire\Trần Nam\QLCaPhe\DAL\obj\Debug\DAL.pdb
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAL.dll
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAL.pdb
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAO.dll
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAO.pdb
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.dll
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.pdb
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAL.dll
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAL.pdb
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAO.dll
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAO.pdb
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.dll
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.pdb
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAL.dll
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAL.pdb
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAO.dll
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAO.pdb
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.dll
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.pdb
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAL.dll
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAL.pdb
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAO.dll
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAL\bin\Debug\DAO.pdb
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.dll
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAL\obj\Debug\DAL.pdb
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAL\bin\Debug\DAL.dll
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAL\bin\Debug\DAL.pdb
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAL\bin\Debug\DAO.dll
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAL\bin\Debug\DAO.pdb
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAL\obj\Debug\DAL.dll
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAL\obj\Debug\DAL.pdb
+D:\Visual Studio 2019\projectThue\LeKhoa\QuanLyKhamBenh\DAL\bin\Debug\DAL.dll
+D:\Visual Studio 2019\projectThue\LeKhoa\QuanLyKhamBenh\DAL\bin\Debug\DAL.pdb
+D:\Visual Studio 2019\projectThue\LeKhoa\QuanLyKhamBenh\DAL\bin\Debug\DAO.dll
+D:\Visual Studio 2019\projectThue\LeKhoa\QuanLyKhamBenh\DAL\bin\Debug\DAO.pdb
+D:\Visual Studio 2019\projectThue\LeKhoa\QuanLyKhamBenh\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\projectThue\LeKhoa\QuanLyKhamBenh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\projectThue\LeKhoa\QuanLyKhamBenh\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Visual Studio 2019\projectThue\LeKhoa\QuanLyKhamBenh\DAL\obj\Debug\DAL.dll
+D:\Visual Studio 2019\projectThue\LeKhoa\QuanLyKhamBenh\DAL\obj\Debug\DAL.pdb
+D:\QuanLyKhamBenh1\DAL\bin\Debug\DAL.dll
+D:\QuanLyKhamBenh1\DAL\bin\Debug\DAL.pdb
+D:\QuanLyKhamBenh1\DAL\bin\Debug\DAO.dll
+D:\QuanLyKhamBenh1\DAL\bin\Debug\DAO.pdb
+D:\QuanLyKhamBenh1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QuanLyKhamBenh1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QuanLyKhamBenh1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QuanLyKhamBenh1\DAL\obj\Debug\DAL.dll
+D:\QuanLyKhamBenh1\DAL\obj\Debug\DAL.pdb
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAL\bin\Debug\DAL.dll
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAL\bin\Debug\DAL.pdb
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAL\bin\Debug\DAO.dll
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAL\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAL\obj\Debug\DAL.dll
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAL\obj\Debug\DAL.pdb

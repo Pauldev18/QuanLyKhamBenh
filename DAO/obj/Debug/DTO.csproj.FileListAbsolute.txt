@@ -1,0 +1,42 @@
+D:\Hire\Trần Nam\QLCaPhe\DAO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Hire\Trần Nam\QLCaPhe\DAO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Hire\Trần Nam\QLCaPhe\DAO\bin\Debug\DAO.dll
+D:\Hire\Trần Nam\QLCaPhe\DAO\bin\Debug\DAO.pdb
+D:\Hire\Trần Nam\QLCaPhe\DAO\obj\Debug\DAO.dll
+D:\Hire\Trần Nam\QLCaPhe\DAO\obj\Debug\DAO.pdb
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAO\bin\Debug\DAO.dll
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAO\bin\Debug\DAO.pdb
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DAO.dll
+D:\Hire\Trần Nam\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DAO.pdb
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\bin\Debug\DAO.dll
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\bin\Debug\DAO.pdb
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DAO.dll
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DAO.pdb
+D:\Hire\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\bin\Debug\DAO.dll
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\bin\Debug\DAO.pdb
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DAO.dll
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DAO.pdb
+D:\TaiLieuThue\Trần Nam\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAO\bin\Debug\DAO.dll
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAO\bin\Debug\DAO.pdb
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DAO.dll
+D:\Visual Studio 2019\projectThue\TranNam\CuaHangCaPhe\QLCaPhe\DAO\obj\Debug\DAO.pdb
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAO\bin\Debug\DAO.dll
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAO\bin\Debug\DAO.pdb
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAO\obj\Debug\DAO.dll
+D:\Visual Studio 2019\projectThue\LeKhoa\QLCaPhe\DAO\obj\Debug\DAO.pdb
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAO\bin\Debug\DAO.dll
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAO\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAO\obj\Debug\DAO.dll
+C:\Users\admin\Downloads\QuanLyKhamBenh1\DAO\obj\Debug\DAO.pdb
